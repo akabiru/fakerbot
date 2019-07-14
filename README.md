@@ -7,7 +7,7 @@
 
 ## Please Note
 
-`fakerbot` is now part of the the [faker-ruby](https://github.com/faker-ruby) organisation whereby it's been [adapted as the official Faker CLI](https://github.com/faker-ruby/faker-bot) :tada:.
+`fakerbot` is now part of the the [faker-ruby](https://github.com/faker-ruby) community [as the official Faker CLI](https://github.com/faker-ruby/faker-bot) :tada:.
 
 Big thanks to the faker maintainers and the awesome `fakerbot` contributors :bow:
 
